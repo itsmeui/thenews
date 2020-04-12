@@ -510,9 +510,9 @@ footer {
   z-index: -1;
   width: 300%;
   height: 100%;
-  background: #ebb52a;
-  background: -webkit-gradient(linear, left top, right top, from(#ebb52a), color-stop(49%, rgba(255, 222, 0, 0.846674)), to(#d7bd23));
-  background: linear-gradient(90deg, #ebb52a 0%, rgba(255, 222, 0, 0.846674) 49%, #d7bd23 100%);
+  background: #a300e2;
+  background: -webkit-gradient(linear, left top, right top, from(#a300e2), color-stop(49%, rgba(170, 99, 220, 0.846674)), to(#b50054));
+  background: linear-gradient(90deg, #a300e2 0%, rgba(170, 99, 220, 0.846674) 49%, #b50054 100%);
   top: 0;
   left: -100%;
   -webkit-transition: all 0.4s;
@@ -521,7 +521,7 @@ footer {
 
 .login100-form-btn {
   font-size: 16px;
-  color: #222;
+  color: #fff;
   line-height: 1.2;
   text-transform: uppercase;
   display: -webkit-box;

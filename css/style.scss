@@ -697,8 +697,8 @@ footer{
     height: 100%;
     
   
-    background: rgb(235,181,42);
-    background: linear-gradient(90deg, rgba(235,181,42,1) 0%, rgba(255,222,0,0.846673703661152) 49%, rgba(215,189,35,1) 100%);
+    background: #a300e2;
+    background: linear-gradient(90deg, #a300e2 0%, rgba(170, 99, 220, 0.846674) 49%, #b50054 100%);
         top: 0;
     left: -100%;
     -webkit-transition: all 0.4s;
@@ -709,7 +709,7 @@ footer{
 
 .login100-form-btn {
      font-size: 16px;
-    color: #222;
+    color: #fff;
     line-height: 1.2;
     text-transform: uppercase;
     display: -webkit-box;
